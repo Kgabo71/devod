@@ -6173,6 +6173,9 @@ img {
 .footer-area .footer-top .left-content .logo img {
     display: block;
 }
+ .logo img {
+    size:500px;
+}
 .footer-area .footer-top .left-content p {
     color: rgba(255 255 255 / 80%);
     font-size: 18px;
